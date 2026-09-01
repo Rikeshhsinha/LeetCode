@@ -47,3 +47,14 @@ This repository contains my accepted LeetCode solutions. The solutions are autom
 ---
 
 If you find this repository helpful, feel free to star it!
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Rikeshhsinha/LeetCode/tree/master/0035-search-insert-position) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Rikeshhsinha/LeetCode/tree/master/0035-search-insert-position) |
+<!---LeetCode Topics End-->
