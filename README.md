@@ -56,6 +56,7 @@ If you find this repository helpful, feel free to star it!
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rikeshhsinha/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rikeshhsinha/LeetCode/tree/master/0035-search-insert-position) |
 | [0189-rotate-array](https://github.com/Rikeshhsinha/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Rikeshhsinha/LeetCode/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
@@ -66,6 +67,7 @@ If you find this repository helpful, feel free to star it!
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rikeshhsinha/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Rikeshhsinha/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Rikeshhsinha/LeetCode/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
