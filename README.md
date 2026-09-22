@@ -58,6 +58,7 @@ If you find this repository helpful, feel free to star it!
 | [0189-rotate-array](https://github.com/Rikeshhsinha/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Rikeshhsinha/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Rikeshhsinha/LeetCode/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Rikeshhsinha/LeetCode/tree/master/0485-max-consecutive-ones) |
 ## Binary Search
 |  |
 | ------- |
