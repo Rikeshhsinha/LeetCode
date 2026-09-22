@@ -56,12 +56,14 @@ If you find this repository helpful, feel free to star it!
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rikeshhsinha/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rikeshhsinha/LeetCode/tree/master/0035-search-insert-position) |
 | [0189-rotate-array](https://github.com/Rikeshhsinha/LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Rikeshhsinha/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Rikeshhsinha/LeetCode/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rikeshhsinha/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rikeshhsinha/LeetCode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/Rikeshhsinha/LeetCode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -72,4 +74,17 @@ If you find this repository helpful, feel free to star it!
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Rikeshhsinha/LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Rikeshhsinha/LeetCode/tree/master/0268-missing-number) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Rikeshhsinha/LeetCode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Rikeshhsinha/LeetCode/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Rikeshhsinha/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
