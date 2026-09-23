@@ -55,6 +55,7 @@ If you find this repository helpful, feel free to star it!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rikeshhsinha/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rikeshhsinha/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rikeshhsinha/LeetCode/tree/master/0035-search-insert-position) |
+| [0136-single-number](https://github.com/Rikeshhsinha/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Rikeshhsinha/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Rikeshhsinha/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Rikeshhsinha/LeetCode/tree/master/0283-move-zeroes) |
@@ -83,6 +84,7 @@ If you find this repository helpful, feel free to star it!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Rikeshhsinha/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Rikeshhsinha/LeetCode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
