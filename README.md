@@ -52,6 +52,7 @@ If you find this repository helpful, feel free to star it!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Rikeshhsinha/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rikeshhsinha/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rikeshhsinha/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rikeshhsinha/LeetCode/tree/master/0035-search-insert-position) |
@@ -80,6 +81,7 @@ If you find this repository helpful, feel free to star it!
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Rikeshhsinha/LeetCode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Rikeshhsinha/LeetCode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
