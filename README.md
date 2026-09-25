@@ -56,6 +56,7 @@ If you find this repository helpful, feel free to star it!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rikeshhsinha/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rikeshhsinha/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rikeshhsinha/LeetCode/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/Rikeshhsinha/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Rikeshhsinha/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Rikeshhsinha/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Rikeshhsinha/LeetCode/tree/master/0268-missing-number) |
@@ -71,6 +72,7 @@ If you find this repository helpful, feel free to star it!
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rikeshhsinha/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Rikeshhsinha/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Rikeshhsinha/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Rikeshhsinha/LeetCode/tree/master/0283-move-zeroes) |
 ## Math
@@ -91,5 +93,14 @@ If you find this repository helpful, feel free to star it!
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Rikeshhsinha/LeetCode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Rikeshhsinha/LeetCode/tree/master/0268-missing-number) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Rikeshhsinha/LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Rikeshhsinha/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
