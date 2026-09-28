@@ -85,6 +85,7 @@ If you find this repository helpful, feel free to star it!
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Rikeshhsinha/LeetCode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Rikeshhsinha/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Rikeshhsinha/LeetCode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -95,6 +96,7 @@ If you find this repository helpful, feel free to star it!
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Rikeshhsinha/LeetCode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Rikeshhsinha/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Rikeshhsinha/LeetCode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -130,4 +132,8 @@ If you find this repository helpful, feel free to star it!
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Rikeshhsinha/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Rikeshhsinha/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
