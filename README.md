@@ -87,6 +87,7 @@ If you find this repository helpful, feel free to star it!
 | [0189-rotate-array](https://github.com/Rikeshhsinha/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Rikeshhsinha/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Rikeshhsinha/LeetCode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/Rikeshhsinha/LeetCode/tree/master/0326-power-of-three) |
 ## Hash Table
 |  |
 | ------- |
@@ -136,4 +137,5 @@ If you find this repository helpful, feel free to star it!
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Rikeshhsinha/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Rikeshhsinha/LeetCode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
