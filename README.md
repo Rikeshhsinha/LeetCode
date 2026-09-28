@@ -115,4 +115,13 @@ If you find this repository helpful, feel free to star it!
 | ------- |
 | [0125-valid-palindrome](https://github.com/Rikeshhsinha/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Rikeshhsinha/LeetCode/tree/master/0344-reverse-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rikeshhsinha/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rikeshhsinha/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rikeshhsinha/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
