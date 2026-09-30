@@ -61,6 +61,7 @@ If you find this repository helpful, feel free to star it!
 | [0088-merge-sorted-array](https://github.com/Rikeshhsinha/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Rikeshhsinha/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Rikeshhsinha/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Rikeshhsinha/LeetCode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Rikeshhsinha/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Rikeshhsinha/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Rikeshhsinha/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -86,6 +87,7 @@ If you find this repository helpful, feel free to star it!
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Rikeshhsinha/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Rikeshhsinha/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Rikeshhsinha/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Rikeshhsinha/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Rikeshhsinha/LeetCode/tree/master/0326-power-of-three) |
@@ -148,4 +150,24 @@ If you find this repository helpful, feel free to star it!
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Rikeshhsinha/LeetCode/tree/master/0191-number-of-1-bits) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Rikeshhsinha/LeetCode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Rikeshhsinha/LeetCode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Rikeshhsinha/LeetCode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Rikeshhsinha/LeetCode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Rikeshhsinha/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
