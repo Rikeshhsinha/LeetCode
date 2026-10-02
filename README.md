@@ -65,6 +65,7 @@ If you find this repository helpful, feel free to star it!
 | [0268-missing-number](https://github.com/Rikeshhsinha/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Rikeshhsinha/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Rikeshhsinha/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [1572-matrix-diagonal-sum](https://github.com/Rikeshhsinha/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -170,4 +171,8 @@ If you find this repository helpful, feel free to star it!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Rikeshhsinha/LeetCode/tree/master/0204-count-primes) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/Rikeshhsinha/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
