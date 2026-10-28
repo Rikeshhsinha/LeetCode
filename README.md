@@ -65,6 +65,7 @@ If you find this repository helpful, feel free to star it!
 | [0204-count-primes](https://github.com/Rikeshhsinha/LeetCode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Rikeshhsinha/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Rikeshhsinha/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Rikeshhsinha/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Rikeshhsinha/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1572-matrix-diagonal-sum](https://github.com/Rikeshhsinha/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/Rikeshhsinha/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -75,6 +76,7 @@ If you find this repository helpful, feel free to star it!
 | [0035-search-insert-position](https://github.com/Rikeshhsinha/LeetCode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Rikeshhsinha/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/Rikeshhsinha/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Rikeshhsinha/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -86,6 +88,7 @@ If you find this repository helpful, feel free to star it!
 | [0151-reverse-words-in-a-string](https://github.com/Rikeshhsinha/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Rikeshhsinha/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Rikeshhsinha/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Rikeshhsinha/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Rikeshhsinha/LeetCode/tree/master/0344-reverse-string) |
 ## Math
 |  |
@@ -110,6 +113,7 @@ If you find this repository helpful, feel free to star it!
 | [0191-number-of-1-bits](https://github.com/Rikeshhsinha/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Rikeshhsinha/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Rikeshhsinha/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Rikeshhsinha/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Rikeshhsinha/LeetCode/tree/master/0342-power-of-four) |
 ## Sorting
 |  |
@@ -182,4 +186,12 @@ If you find this repository helpful, feel free to star it!
 | [0074-search-a-2d-matrix](https://github.com/Rikeshhsinha/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Rikeshhsinha/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/Rikeshhsinha/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Rikeshhsinha/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Rikeshhsinha/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
