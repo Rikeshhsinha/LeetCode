@@ -67,6 +67,7 @@ If you find this repository helpful, feel free to star it!
 | [0283-move-zeroes](https://github.com/Rikeshhsinha/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Rikeshhsinha/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1572-matrix-diagonal-sum](https://github.com/Rikeshhsinha/LeetCode/tree/master/1572-matrix-diagonal-sum) |
+| [2965-find-missing-and-repeated-values](https://github.com/Rikeshhsinha/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -95,11 +96,13 @@ If you find this repository helpful, feel free to star it!
 | [0268-missing-number](https://github.com/Rikeshhsinha/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Rikeshhsinha/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Rikeshhsinha/LeetCode/tree/master/0342-power-of-four) |
+| [2965-find-missing-and-repeated-values](https://github.com/Rikeshhsinha/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rikeshhsinha/LeetCode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Rikeshhsinha/LeetCode/tree/master/0268-missing-number) |
+| [2965-find-missing-and-repeated-values](https://github.com/Rikeshhsinha/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -178,4 +181,5 @@ If you find this repository helpful, feel free to star it!
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Rikeshhsinha/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Rikeshhsinha/LeetCode/tree/master/1572-matrix-diagonal-sum) |
+| [2965-find-missing-and-repeated-values](https://github.com/Rikeshhsinha/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
