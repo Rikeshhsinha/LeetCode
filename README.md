@@ -53,6 +53,7 @@ If you find this repository helpful, feel free to star it!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rikeshhsinha/LeetCode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Rikeshhsinha/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rikeshhsinha/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Rikeshhsinha/LeetCode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rikeshhsinha/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -80,6 +81,7 @@ If you find this repository helpful, feel free to star it!
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Rikeshhsinha/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rikeshhsinha/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Rikeshhsinha/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Rikeshhsinha/LeetCode/tree/master/0075-sort-colors) |
@@ -118,6 +120,7 @@ If you find this repository helpful, feel free to star it!
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Rikeshhsinha/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Rikeshhsinha/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Rikeshhsinha/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Rikeshhsinha/LeetCode/tree/master/0268-missing-number) |
